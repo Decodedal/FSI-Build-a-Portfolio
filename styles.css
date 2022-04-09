@@ -1,0 +1,25 @@
+.photo,.head, .proj, .about,.contact{
+
+    text-align: center;
+     
+    
+
+}
+
+.kua{
+    border-radius: 60%;
+}
+
+body{
+    background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/pattern-with-binary-code-beautiful-things.jpg);
+    
+}
+p,.head,.about,.contact,.proj{
+    text-align: center;
+    background-color: black;
+   border-radius: 80%;
+}
+p,h1,h2,h3,ul{
+
+    color: white;
+}
